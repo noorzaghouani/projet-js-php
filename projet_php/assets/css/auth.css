@@ -1,0 +1,23 @@
+.bg-image {
+    background-image: url('../images/background.jpg')no-repeat center center fixed;
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+
+
+.login-container {
+    max-width: 450px;
+}
+
+.btn-success {
+    background-color: #2457e2;
+    border-color: #286aa7;
+    color: white;
+}
+
+.btn-success:hover {
+    background-color: #3e508d;
+    border-color: #1e537e;
+}

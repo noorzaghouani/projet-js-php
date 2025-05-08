@@ -1,0 +1,18 @@
+body, html {
+  height: 100%;
+  font-family: Arial, sans-serif;
+}
+
+.bg-image {
+  background: url('../images/background.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+
+.login-container {
+  max-width: 400px;
+  width: 100%;
+}
+
+input::placeholder {
+  color: #888;
+}
